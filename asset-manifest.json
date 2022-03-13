@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/formik-Registrationform/static/css/main.261a91ac.css",
+    "main.js": "/formik-Registrationform/static/js/main.85af87fb.js",
+    "static/media/rocket.png": "/formik-Registrationform/static/media/rocket.4bf2b4a8a4100891bbf5.png",
+    "index.html": "/formik-Registrationform/index.html",
+    "main.261a91ac.css.map": "/formik-Registrationform/static/css/main.261a91ac.css.map",
+    "main.85af87fb.js.map": "/formik-Registrationform/static/js/main.85af87fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.261a91ac.css",
+    "static/js/main.85af87fb.js"
+  ]
+}
